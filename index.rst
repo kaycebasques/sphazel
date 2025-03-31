@@ -5,5 +5,3 @@ sphazel
 =======
 
 Sphinx + Bazel = sphazel
-
-Test?
